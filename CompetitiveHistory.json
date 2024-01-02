@@ -3,7 +3,7 @@
         {
             "Event": "Digital Video Production",
             "Placement": "4th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Alejandra Cervantes",
                 "Max Wagoner"
             ],
@@ -13,7 +13,7 @@
         {
             "Event": "Intro to Parliamentary Procedure",
             "Placement": "6th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Nichole Sun"
             ],
             "Conference": "NLC",
@@ -22,7 +22,7 @@
         {
             "Event": "American Enterprise Project",
             "Placement": "7th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Praneet Dumpa",
                 "Nichole Sun",
                 "Alena Talreja"
@@ -33,7 +33,7 @@
         {
             "Event": "Business Ethics",
             "Placement": "5th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Arif Rahman",
                 "Emily Wang",
                 "Derek Zhang"
@@ -44,7 +44,7 @@
         {
             "Event": "Business Law",
             "Placement": "4th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Jiayi Qin"
             ],
             "Conference": "SLC",
@@ -53,7 +53,7 @@
         {
             "Event": "Business Plan",
             "Placement": "7th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Chinmay Swaminathan",
                 "James Zhang"
             ],
@@ -63,7 +63,7 @@
         {
             "Event": "Data Analysis",
             "Placement": "6th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Jason Alfonso",
                 "Yuhan Zhang"
             ],
@@ -73,7 +73,7 @@
         {
             "Event": "Digival Video Production",
             "Placement": "1st",
-            "Competitor(s)": [
+            "Competitors": [
                 "Alejandra Cervantes",
                 "Max Wagoner"
             ],
@@ -83,7 +83,7 @@
         {
             "Event": "Graphic Design",
             "Placement": "4th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Emily Chen",
                 "Jubilee Yu",
                 "Yuhan Zhang"
@@ -94,7 +94,7 @@
         {
             "Event": "Intro to Business Presentation",
             "Placement": "5th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Jason Alfonso",
                 "April Pan",
                 "James Zhang"
@@ -105,7 +105,7 @@
         {
             "Event": "Intro to FBLA",
             "Placement": "8th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Revathi Kalavakuri"
             ],
             "Conference": "SLC",
@@ -114,7 +114,7 @@
         {
             "Event": "Intro to Financial Math",
             "Placement": "6th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Praneet Dumpa"
             ],
             "Conference": "SLC",
@@ -123,7 +123,7 @@
         {
             "Event": "Intro to Informational Technology",
             "Placement": "3rd",
-            "Competitor(s)": [
+            "Competitors": [
                 "Praneet Dumpa"
             ],
             "Conference": "SLC",
@@ -132,7 +132,7 @@
         {
             "Event": "Intro to Parliamentary Procedure",
             "Placement": "3rd",
-            "Competitor(s)": [
+            "Competitors": [
                 "Nichole Sun"
             ],
             "Conference": "SLC",
@@ -141,7 +141,7 @@
         {
             "Event": "Intro to Public Speaking",
             "Placement": "1st",
-            "Competitor(s)": [
+            "Competitors": [
                 "Emily Wang"
             ],
             "Conference": "SLC",
@@ -150,7 +150,7 @@
         {
             "Event": "Management Information Systems",
             "Placement": "8th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Evan Nim",
                 "Ayasha Pokharel"
             ],
@@ -160,7 +160,7 @@
         {
             "Event": "Mobile Application Development",
             "Placement": "5th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Saanvi Nukala",
                 "Rudra Patel",
                 "Brian Wang"
@@ -171,7 +171,7 @@
         {
             "Event": "Network Design",
             "Placement": "8th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Saanvi Nukala"
             ],
             "Conference": "SLC",
@@ -180,7 +180,7 @@
         {
             "Event": "Website Design",
             "Placement": "1st",
-            "Competitor(s)": [
+            "Competitors": [
                 "Nataniel Jayaseelan",
                 "Jiayi Qin",
                 "Jason Sun"
@@ -191,7 +191,7 @@
         {
             "Event": "Broadcast Journalism",
             "Placement": "4th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Evan Nim",
                 "Violet Pereda",
                 "Max Wagoner"
@@ -202,98 +202,98 @@
         {
             "Event": "Business Calculations",
             "Placement": "5th",
-            "Competitor(s)": "Chinmay Swaminathan",
+            "Competitors": "Chinmay Swaminathan",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Business Calculations",
             "Placement": "8th",
-            "Competitor(s)": "Alejandra Cervantes",
+            "Competitors": "Alejandra Cervantes",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Business Law",
             "Placement": "4th",
-            "Competitor(s)": "Jiayi Qin",
+            "Competitors": "Jiayi Qin",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Computer Applications",
             "Placement": "2nd",
-            "Competitor(s)": "Nataniel Jayaseelan",
+            "Competitors": "Nataniel Jayaseelan",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Computer Applications",
             "Placement": "6th",
-            "Competitor(s)": "Alena Talreja",
+            "Competitors": "Alena Talreja",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Computer Applications",
             "Placement": "8th",
-            "Competitor(s)": "Jubilee Yu",
+            "Competitors": "Jubilee Yu",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Creed",
             "Placement": "3rd",
-            "Competitor(s)": "Alena Talreja",
+            "Competitors": "Alena Talreja",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Hospitality and Event Management",
             "Placement": "7th",
-            "Competitor(s)": "Pranavi Bethapudi",
+            "Competitors": "Pranavi Bethapudi",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Intro to Business Communication",
             "Placement": "7th",
-            "Competitor(s)": "Jason Sun",
+            "Competitors": "Jason Sun",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Intro to Business Communication",
             "Placement": "9th",
-            "Competitor(s)": "Emily Chen",
+            "Competitors": "Emily Chen",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Intro to Business Concepts",
             "Placement": "7th",
-            "Competitor(s)": "Alejandra Cervantes",
+            "Competitors": "Alejandra Cervantes",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Intro to Business Concepts",
             "Placement": "8th",
-            "Competitor(s)": "Jason Alfonso",
+            "Competitors": "Jason Alfonso",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Intro to Business Concepts",
             "Placement": "10th",
-            "Competitor(s)": "Oliver Encarnacion",
+            "Competitors": "Oliver Encarnacion",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Intro to Event Planning",
             "Placement": "3rd",
-            "Competitor(s)": [
+            "Competitors": [
                 "Ashlynne Adeva",
                 "Max Wagoner"
             ],
@@ -303,84 +303,84 @@
         {
             "Event": "Intro to FBLA",
             "Placement": "3rd",
-            "Competitor(s)": "Revathi Kavalakuri",
+            "Competitors": "Revathi Kavalakuri",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Intro to FBLA",
             "Placement": "9th",
-            "Competitor(s)": "Ethan Lee",
+            "Competitors": "Ethan Lee",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Intro to Financial Math",
             "Placement": "2nd",
-            "Competitor(s)": "Praneet Dumpa",
+            "Competitors": "Praneet Dumpa",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Intro to Financial Math",
             "Placement": "3rd",
-            "Competitor(s)": "Jason Sun",
+            "Competitors": "Jason Sun",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Intro to Informational Technology",
             "Placement": "1st",
-            "Competitor(s)": "Praneet Dumpa",
+            "Competitors": "Praneet Dumpa",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Intro to Informational Technology",
             "Placement": "5th",
-            "Competitor(s)": "Brian Wang",
+            "Competitors": "Brian Wang",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Intro to Informational Technology",
             "Placement": "9th",
-            "Competitor(s)": "Jiayi Qin",
+            "Competitors": "Jiayi Qin",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Intro to Informational Technology",
             "Placement": "10th",
-            "Competitor(s)": "Jubilee Yu",
+            "Competitors": "Jubilee Yu",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Intro to Public Speaking",
             "Placement": "1st",
-            "Competitor(s)": "Emily Wang",
+            "Competitors": "Emily Wang",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Job Interview",
             "Placement": "4th",
-            "Competitor(s)": "Parisa Mirghafouri",
+            "Competitors": "Parisa Mirghafouri",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Job Interview",
             "Placement": "6th",
-            "Competitor(s)": "Emily Wang",
+            "Competitors": "Emily Wang",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Marketing",
             "Placement": "3rd",
-            "Competitor(s)": [
+            "Competitors": [
                 "Ashlynne Adeva",
                 "Emiy Chen"
             ],
@@ -390,28 +390,28 @@
         {
             "Event": "Personal Finance",
             "Placement": "7th",
-            "Competitor(s)": "Revathi Kavalakuri",
+            "Competitors": "Revathi Kavalakuri",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Personal Finance",
             "Placement": "10th",
-            "Competitor(s)": "Chinmay Swaminathan",
+            "Competitors": "Chinmay Swaminathan",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Sales Presentation",
             "Placement": "1st",
-            "Competitor(s)": "Alena Talreja",
+            "Competitors": "Alena Talreja",
             "Conference": "ISLC",
             "Year": 2023
         },
         {
             "Event": "Sports and Entertainment Management",
             "Placement": "6th",
-            "Competitor(s)": "Violet Pereda",
+            "Competitors": "Violet Pereda",
             "Conference": "ISLC",
             "Year": 2023
         }
@@ -420,182 +420,182 @@
         {
             "Event": "Accounting I",
             "Placement": "7th",
-            "Competitor(s)": "Pragun Bethapudi",
+            "Competitors": "Pragun Bethapudi",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Accounting I",
             "Placement": "9th",
-            "Competitor(s)": "Sirui Gu",
+            "Competitors": "Sirui Gu",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Agribusiness",
             "Placement": "7th",
-            "Competitor(s)": "Pragun Bethapudi",
+            "Competitors": "Pragun Bethapudi",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Business Calculations",
             "Placement": "9th",
-            "Competitor(s)": "Shivani Mohapatra",
+            "Competitors": "Shivani Mohapatra",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Business Communication",
             "Placement": "8tb",
-            "Competitor(s)": "Soumya Agarwal",
+            "Competitors": "Soumya Agarwal",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Business Law",
             "Placement": "3rd",
-            "Competitor(s)": "Yanhan Liu",
+            "Competitors": "Yanhan Liu",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Business Law",
             "Placement": "10th",
-            "Competitor(s)": "Joyce He",
+            "Competitors": "Joyce He",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Computer Problem Solving",
             "Placement": "4th",
-            "Competitor(s)": "Louis Hsieh",
+            "Competitors": "Louis Hsieh",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Computer Problem Solving",
             "Placement": "10th",
-            "Competitor(s)": "Evan Arcega",
+            "Competitors": "Evan Arcega",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Creed",
             "Placement": "5th",
-            "Competitor(s)": "Brooke Obasi",
+            "Competitors": "Brooke Obasi",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Cyber Security",
             "Placement": "3rd",
-            "Competitor(s)": "Maxwell Chu",
+            "Competitors": "Maxwell Chu",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Cyber Security",
             "Placement": "10th",
-            "Competitor(s)": "Gunner Grisat",
+            "Competitors": "Gunner Grisat",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Economics",
             "Placement": "5th",
-            "Competitor(s)": "Maxwell Chu",
+            "Competitors": "Maxwell Chu",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Entrepreneurship",
             "Placement": "6th",
-            "Competitor(s)": "Jeewan Kaur",
+            "Competitors": "Jeewan Kaur",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Future Business Leader",
             "Placement": "6th",
-            "Competitor(s)": "Yanhan Liu",
+            "Competitors": "Yanhan Liu",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Healthcare Administration",
             "Placement": "8th",
-            "Competitor(s)": "Aleeza Hussain",
+            "Competitors": "Aleeza Hussain",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Impromptu Speaking",
             "Placement": "2nd",
-            "Competitor(s)": "Jeewan Kaur",
+            "Competitors": "Jeewan Kaur",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "International Business",
             "Placement": "2nd",
-            "Competitor(s)": "Thomas Rife",
+            "Competitors": "Thomas Rife",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Intro to Business",
             "Placement": "7th",
-            "Competitor(s)": "Chloe Wu",
+            "Competitors": "Chloe Wu",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Intro to Business Communication",
             "Placement": "2nd",
-            "Competitor(s)": "Vivica Kalsi",
+            "Competitors": "Vivica Kalsi",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Intro to Business Procedures",
             "Placement": "7th",
-            "Competitor(s)": "Brooke Obasi",
+            "Competitors": "Brooke Obasi",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Intro to Event Planning",
             "Placement": "4th",
-            "Competitor(s)": "Rylie Nash",
+            "Competitors": "Rylie Nash",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Intro to FBLA",
             "Placement": "9th",
-            "Competitor(s)": "Parisa Mirghafouri",
+            "Competitors": "Parisa Mirghafouri",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Intro to Public Speaking",
             "Placement": "4th",
-            "Competitor(s)": "Chloe Wu",
+            "Competitors": "Chloe Wu",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Job Interview",
             "Placement": "2nd",
-            "Competitor(s)": "Soumya Agarwal",
+            "Competitors": "Soumya Agarwal",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Management Decision Making",
             "Placement": "5th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Yingzi Shen",
                 "Yanshu Wang"
             ],
@@ -605,35 +605,35 @@
         {
             "Event": "Marketing",
             "Placement": "3rd",
-            "Competitor(s)": "Thomas Rife",
+            "Competitors": "Thomas Rife",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Personal Finance",
             "Placement": "2nd",
-            "Competitor(s)": "Louis Hsieh",
+            "Competitors": "Louis Hsieh",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Personal Finance",
             "Placement": "7th",
-            "Competitor(s)": "Shivani Mohapatra",
+            "Competitors": "Shivani Mohapatra",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Personal Finance",
             "Placement": "10th",
-            "Competitor(s)": "Allan Chen",
+            "Competitors": "Allan Chen",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Sales Presentation",
             "Placement": "2nd",
-            "Competitor(s)": [
+            "Competitors": [
                 "Vivica Kalsi",
                 "Parisa Mirghafouri"
             ],
@@ -643,35 +643,35 @@
         {
             "Event": "Securities and Investments",
             "Placement": "10th",
-            "Competitor(s)": "Joyce He",
+            "Competitors": "Joyce He",
             "Conference": "ISLC",
             "Year": 2022
         },
         {
             "Event": "Business Communication",
             "Placement": "10th",
-            "Competitor(s)": "Maxwell Chu",
+            "Competitors": "Maxwell Chu",
             "Conference": "SLC",
             "Year": 2022
         },
         {
             "Event": "Business Plan",
             "Placement": "7th",
-            "Competitor(s)": "Manleen Kalra",
+            "Competitors": "Manleen Kalra",
             "Conference": "SLC",
             "Year": 2022
         },
         {
             "Event": "Client Service",
             "Placement": "1st",
-            "Competitor(s)": "Sophia Sandoval",
+            "Competitors": "Sophia Sandoval",
             "Conference": "SLC",
             "Year": 2022
         },
         {
             "Event": "Coding and Programming",
             "Placement": "2nd",
-            "Competitor(s)": [
+            "Competitors": [
                 "Violet Pereda",
                 "Chloe Wu"
             ],
@@ -681,7 +681,7 @@
         {
             "Event": "Data Analysis",
             "Placement": "3rd",
-            "Competitor(s)": [
+            "Competitors": [
                 "Chak Lam Li",
                 "Yanshu Wang"
             ],
@@ -691,7 +691,7 @@
         {
             "Event": "Digital Video Production",
             "Placement": "6th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Nataniel Jayaseelan",
                 "Jonathan Medina"
             ],
@@ -701,7 +701,7 @@
         {
             "Event": "E-Business",
             "Placement": "2nd",
-            "Competitor(s)": [
+            "Competitors": [
                 "Madeline Rife",
                 "Alena Talreja",
                 "Ashley Tran"
@@ -712,7 +712,7 @@
         {
             "Event": "Graphic Design",
             "Placement": "3rd",
-            "Competitor(s)": [
+            "Competitors": [
                 "Chloe Bernas",
                 "Amera Carter",
                 "Alena Talreja"
@@ -723,21 +723,21 @@
         {
             "Event": "Help Desk",
             "Placement": "3rd",
-            "Competitor(s)": "Evan Arecga",
+            "Competitors": "Evan Arecga",
             "Conference": "SLC",
             "Year": 2022
         },
         {
             "Event": "Impromptu Speaking",
             "Placement": "2nd",
-            "Competitor(s)": "Emily Wang",
+            "Competitors": "Emily Wang",
             "Conference": "SLC",
             "Year": 2022
         },
         {
             "Event": "Intro to Business Presentation",
             "Placement": "5th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Yingzi Shen",
                 "Yanshu Wang",
                 "Yuhan Zhang"
@@ -748,14 +748,14 @@
         {
             "Event": "Intro to Public Speaking",
             "Placement": "5th",
-            "Competitor(s)": "Emily Wang",
+            "Competitors": "Emily Wang",
             "Conference": "SLC",
             "Year": 2022
         },
         {
             "Event": "Intro to Social Media Strategy",
             "Placement": "8th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Ashlynne Adeva",
                 "Emily Chen",
                 "Jubilee Yu"
@@ -766,21 +766,21 @@
         {
             "Event": "Networking Infrastructures",
             "Placement": "9th",
-            "Competitor(s)": "Thomas Rife",
+            "Competitors": "Thomas Rife",
             "Conference": "SLC",
             "Year": 2022
         },
         {
             "Event": "Organizational Leadership",
             "Placement": "6th",
-            "Competitor(s)": "Jiahan Cheng",
+            "Competitors": "Jiahan Cheng",
             "Conference": "SLC",
             "Year": 2022
         },
         {
             "Event": "Public Service Announcement",
             "Placement": "7th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Parisa Mirghafouri",
                 "Chloe Wu"
             ],
@@ -790,14 +790,14 @@
         {
             "Event": "Sales Presentation",
             "Placement": "4th",
-            "Competitor(s)": "Sophia Sandoval",
+            "Competitors": "Sophia Sandoval",
             "Conference": "SLC",
             "Year": 2022
         },
         {
             "Event": "Word Processing",
             "Placement": "7th",
-            "Competitor(s)": "Maxwell Chu",
+            "Competitors": "Maxwell Chu",
             "Conference": "SLC",
             "Year": 2022
         }
@@ -806,70 +806,70 @@
         {
             "Event": "Accounting II",
             "Placement": "9th",
-            "Competitor(s)": "John Wu",
+            "Competitors": "John Wu",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Business Calculations",
             "Placement": "6th",
-            "Competitor(s)": "Moeez Hussain",
+            "Competitors": "Moeez Hussain",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Business Law",
             "Placement": "8th",
-            "Competitor(s)": "Claire Oh",
+            "Competitors": "Claire Oh",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Computer Applications",
             "Placement": "7th",
-            "Competitor(s)": "Faye Yang",
+            "Competitors": "Faye Yang",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Computer Problem Solving",
             "Placement": "2nd",
-            "Competitor(s)": "Bradley Grace",
+            "Competitors": "Bradley Grace",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Computer Problem Solving",
             "Placement": "10th",
-            "Competitor(s)": "Fupeng Zhao",
+            "Competitors": "Fupeng Zhao",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Creed",
             "Placement": "6th",
-            "Competitor(s)": "Yanhan Liu",
+            "Competitors": "Yanhan Liu",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Cyber Security",
             "Placement": "3rd",
-            "Competitor(s)": "Bradley Grace",
+            "Competitors": "Bradley Grace",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Economics",
             "Placement": "4th",
-            "Competitor(s)": "Abhijit Singh",
+            "Competitors": "Abhijit Singh",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Entrepreneurship",
             "Placement": "7th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Rui Song",
                 "Abhijit Singh",
                 "Faris Saeed"
@@ -880,7 +880,7 @@
         {
             "Event": "Global Business",
             "Placement": "6th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Maham Mobin",
                 "Ahmad Halawi"
             ],
@@ -890,14 +890,14 @@
         {
             "Event": "Heath Care Administration",
             "Placement": "9th",
-            "Competitor(s)": "Dimple Garuadapuri",
+            "Competitors": "Dimple Garuadapuri",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Hospitality Management",
             "Placement": "8th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Jeewan Kaur",
                 "Daijiaxuan He"
             ],
@@ -907,70 +907,70 @@
         {
             "Event": "Impromptu Speaking",
             "Placement": "6th",
-            "Competitor(s)": "Manal Ali",
+            "Competitors": "Manal Ali",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Intro to Business Procedures",
             "Placement": "2nd",
-            "Competitor(s)": "Jiahan Cheng",
+            "Competitors": "Jiahan Cheng",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Intro to Business Procedures",
             "Placement": "3rd",
-            "Competitor(s)": "Thomas Rife",
+            "Competitors": "Thomas Rife",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Job Interview",
             "Placement": "3rd",
-            "Competitor(s)": "Aksha Muir",
+            "Competitors": "Aksha Muir",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Intro to FBLA",
             "Placement": "10th",
-            "Competitor(s)": "Maxwell Chu",
+            "Competitors": "Maxwell Chu",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Intro to Financial Math",
             "Placement": "5th",
-            "Competitor(s)": "Maxwell Chu",
+            "Competitors": "Maxwell Chu",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Intro to Informational Technology",
             "Placement": "2nd",
-            "Competitor(s)": "Jiahan Cheng",
+            "Competitors": "Jiahan Cheng",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Intro to Informational Technology",
             "Placement": "5th",
-            "Competitor(s)": "Thomas Rife",
+            "Competitors": "Thomas Rife",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Intro to Public Speaking",
             "Placement": "4th",
-            "Competitor(s)": "Jeewan Kaur",
+            "Competitors": "Jeewan Kaur",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Management Decision Making",
             "Placement": "7th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Aleeza Hussain",
                 "Maham Mobin",
                 "Moeez Hussain"
@@ -981,7 +981,7 @@
         {
             "Event": "Marketing",
             "Placement": "2nd",
-            "Competitor(s)": [
+            "Competitors": [
                 "Albert Evans",
                 "Claire Oh",
                 "Sanika Subhedar"
@@ -992,14 +992,14 @@
         {
             "Event": "Public Speaking",
             "Placement": "4th",
-            "Competitor(s)": "Akshat Muir",
+            "Competitors": "Akshat Muir",
             "Conference": "ISLC",
             "Year": 2021
         },
         {
             "Event": "Sports and Entertainment Management",
             "Placement": "5th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Allan Chen",
                 "Ethan Hsu",
                 "Rui Song"
@@ -1012,70 +1012,70 @@
         {
             "Event": "Accounting II",
             "Placement": "9th",
-            "Competitor(s)": "John Wu",
+            "Competitors": "John Wu",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Business Calculations",
             "Placement": "6th",
-            "Competitor(s)": "Moeez Hussain",
+            "Competitors": "Moeez Hussain",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Business Law",
             "Placement": "8th",
-            "Competitor(s)": "Claire Oh",
+            "Competitors": "Claire Oh",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Computer Applications",
             "Placement": "7th",
-            "Competitor(s)": "Faye Yang",
+            "Competitors": "Faye Yang",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Computer Problem Solving",
             "Placement": "2nd",
-            "Competitor(s)": "Bradley Grace",
+            "Competitors": "Bradley Grace",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Computer Problem Solving",
             "Placement": "10th",
-            "Competitor(s)": "Fupeng Zhao",
+            "Competitors": "Fupeng Zhao",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Creed",
             "Placement": "6th",
-            "Competitor(s)": "Yanhan Liu",
+            "Competitors": "Yanhan Liu",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Cyber Security",
             "Placement": "3rd",
-            "Competitor(s)": "Bradley Grace",
+            "Competitors": "Bradley Grace",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Economics",
             "Placement": "4th",
-            "Competitor(s)": "Abhijit Singh",
+            "Competitors": "Abhijit Singh",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Entrepreneurship",
             "Placement": "7th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Rui Song",
                 "Abhijit Singh",
                 "Faris Saeed"
@@ -1086,7 +1086,7 @@
         {
             "Event": "Global Business",
             "Placement": "6th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Maham Mobin",
                 "Ahmad Halawi"
             ],
@@ -1096,14 +1096,14 @@
         {
             "Event": "Heath Care Administration",
             "Placement": "9th",
-            "Competitor(s)": "Dimple Garuadapuri",
+            "Competitors": "Dimple Garuadapuri",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Hospitality Management",
             "Placement": "8th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Jeewan Kaur",
                 "Daijiaxuan He"
             ],
@@ -1113,70 +1113,70 @@
         {
             "Event": "Impromptu Speaking",
             "Placement": "6th",
-            "Competitor(s)": "Manal Ali",
+            "Competitors": "Manal Ali",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Intro to Business Procedures",
             "Placement": "2nd",
-            "Competitor(s)": "Jiahan Cheng",
+            "Competitors": "Jiahan Cheng",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Intro to Business Procedures",
             "Placement": "3rd",
-            "Competitor(s)": "Thomas Rife",
+            "Competitors": "Thomas Rife",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Job Interview",
             "Placement": "3rd",
-            "Competitor(s)": "Aksha Muir",
+            "Competitors": "Aksha Muir",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Intro to FBLA",
             "Placement": "10th",
-            "Competitor(s)": "Maxwell Chu",
+            "Competitors": "Maxwell Chu",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Intro to Financial Math",
             "Placement": "5th",
-            "Competitor(s)": "Maxwell Chu",
+            "Competitors": "Maxwell Chu",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Intro to Informational Technology",
             "Placement": "2nd",
-            "Competitor(s)": "Jiahan Cheng",
+            "Competitors": "Jiahan Cheng",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Intro to Informational Technology",
             "Placement": "5th",
-            "Competitor(s)": "Thomas Rife",
+            "Competitors": "Thomas Rife",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Intro to Public Speaking",
             "Placement": "4th",
-            "Competitor(s)": "Jeewan Kaur",
+            "Competitors": "Jeewan Kaur",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Management Decision Making",
             "Placement": "7th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Aleeza Hussain",
                 "Maham Mobin",
                 "Moeez Hussain"
@@ -1187,7 +1187,7 @@
         {
             "Event": "Marketing",
             "Placement": "2nd",
-            "Competitor(s)": [
+            "Competitors": [
                 "Albert Evans",
                 "Claire Oh",
                 "Sanika Subhedar"
@@ -1198,14 +1198,14 @@
         {
             "Event": "Public Speaking",
             "Placement": "4th",
-            "Competitor(s)": "Akshat Muir",
+            "Competitors": "Akshat Muir",
             "Conference": "ISLC",
             "Year": 2020
         },
         {
             "Event": "Sports and Entertainment Management",
             "Placement": "5th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Allan Chen",
                 "Ethan Hsu",
                 "Rui Song"
@@ -1217,7 +1217,7 @@
     "y2019": [
         {
             "Event": "Accounting II",
-            "Competitor(s)": [
+            "Competitors": [
                 "Abhijit Singh"
             ],
             "Placement": "10th",
@@ -1226,7 +1226,7 @@
         },
         {
             "Event": "Broadcast Journalism",
-            "Competitor(s)": [
+            "Competitors": [
                 "Manal Ali",
                 "Bryan Medina",
                 "Maham Mobin"
@@ -1237,35 +1237,35 @@
         },
         {
             "Event": "Business Calculations",
-            "Competitor(s)": "Claire Oh",
+            "Competitors": "Claire Oh",
             "Placement": "9th",
             "Conference": "ISLC",
             "Year": 2019
         },
         {
             "Event": "Business Communications",
-            "Competitor(s)": "Claire Oh",
+            "Competitors": "Claire Oh",
             "Placement": "10th",
             "Conference": "ISLC",
             "Year": 2019
         },
         {
             "Event": "Computer Problem Solving",
-            "Competitor(s)": "Moeez Hussain",
+            "Competitors": "Moeez Hussain",
             "Placement": "4th",
             "Conference": "ISLC",
             "Year": 2019
         },
         {
             "Event": "Creed",
-            "Competitor(s)": "Manal Ali",
+            "Competitors": "Manal Ali",
             "Placement": "5th",
             "Conference": "ISLC",
             "Year": 2019
         },
         {
             "Event": "Entrepreneurship",
-            "Competitor(s)": [
+            "Competitors": [
                 "Abhijit Singh",
                 "Faris Saeed"
             ],
@@ -1275,14 +1275,14 @@
         },
         {
             "Event": "Future Business Leader",
-            "Competitor(s)": "Bryan Medina",
+            "Competitors": "Bryan Medina",
             "Placement": "6th",
             "Conference": "ISLC",
             "Year": 2019
         },
         {
             "Event": "Global Business",
-            "Competitor(s)": [
+            "Competitors": [
                 "Ashton Han",
                 "Joyce He",
                 "Sanika Subhedar"
@@ -1293,14 +1293,14 @@
         },
         {
             "Event": "Heath Care Administration",
-            "Competitor(s)": "Audrey Ta",
+            "Competitors": "Audrey Ta",
             "Placement": "3rd",
             "Conference": "ISLC",
             "Year": 2019
         },
         {
             "Event": "Hospitality Management",
-            "Competitor(s)": [
+            "Competitors": [
                 "Sai Gorijavolu",
                 "Sanika Subhedar",
                 "Audrey Ta"
@@ -1311,35 +1311,35 @@
         },
         {
             "Event": "Impromptu Speaking",
-            "Competitor(s)": "Max Kuoch",
+            "Competitors": "Max Kuoch",
             "Placement": "7th",
             "Conference": "ISLC",
             "Year": 2019
         },
         {
             "Event": "Intro to Business Procedures",
-            "Competitor(s)": "John Wu",
+            "Competitors": "John Wu",
             "Placement": "10th",
             "Conference": "ISLC",
             "Year": 2019
         },
         {
             "Event": "Intro to Public Speaking",
-            "Competitor(s)": "Dimple Garuadapuri",
+            "Competitors": "Dimple Garuadapuri",
             "Placement": "5th",
             "Conference": "ISLC",
             "Year": 2019
         },
         {
             "Event": "Management Decision Making",
-            "Competitor(s)": "Angela Li",
+            "Competitors": "Angela Li",
             "Placement": "8th",
             "Conference": "ISLC",
             "Year": 2019
         },
         {
             "Event": "Marketing",
-            "Competitor(s)": [
+            "Competitors": [
                 "Joyce He",
                 "Max Kuoch"
             ],
@@ -1349,14 +1349,14 @@
         },
         {
             "Event": "Personal Finance",
-            "Competitor(s)": "Moeez Hussain",
+            "Competitors": "Moeez Hussain",
             "Placement": "9th",
             "Conference": "ISLC",
             "Year": 2019
         },
         {
             "Event": "Public Speaking",
-            "Competitor(s)": [
+            "Competitors": [
                 "Maham Mobin"
             ],
             "Placement": "10th",
@@ -1365,7 +1365,7 @@
         },
         {
             "Event": "Sales Presentation",
-            "Competitor(s)": [
+            "Competitors": [
                 "Sai Gorijavolu"
             ],
             "Placement": "2nd",
@@ -1374,7 +1374,7 @@
         },
         {
             "Event": "Sports and Entertainment Management",
-            "Competitor(s)": [
+            "Competitors": [
                 "Rui Song",
                 "Ashton Han",
                 "Rawan Ghanim"
@@ -1388,7 +1388,7 @@
         {
             "Event": "Broadcast Journalism",
             "Placement": "4th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Bryan Medina"
             ],
             "Conference": "ISLC",
@@ -1397,7 +1397,7 @@
         {
             "Event": "Creed",
             "Placement": "9th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Soumya Agarwal"
             ],
             "Conference": "ISLC",
@@ -1406,7 +1406,7 @@
         {
             "Event": "Database Design and Applications",
             "Placement": "6th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Soumya Agarwal"
             ],
             "Conference": "ISLC",
@@ -1415,7 +1415,7 @@
         {
             "Event": "Entrepreneurship",
             "Placement": "8th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Abhijit Singh"
             ],
             "Conference": "ISLC",
@@ -1424,7 +1424,7 @@
         {
             "Event": "Health Care Administration",
             "Placement": "6th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Gianna Raymundo"
             ],
             "Conference": "ISLC",
@@ -1433,7 +1433,7 @@
         {
             "Event": "Health Care Administration",
             "Placement": "9th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Audrey Ta"
             ],
             "Conference": "ISLC",
@@ -1442,7 +1442,7 @@
         {
             "Event": "Hospitality Management",
             "Placement": "2nd",
-            "Competitor(s)": [
+            "Competitors": [
                 "Jill Su",
                 "Gianna Raymundo",
                 "Cassidy Fan"
@@ -1453,7 +1453,7 @@
         {
             "Event": "Intro to Business Communication",
             "Placement": "7th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Joyce He"
             ],
             "Conference": "ISLC",
@@ -1462,7 +1462,7 @@
         {
             "Event": "Intro to Informational Technology",
             "Placement": "3rd",
-            "Competitor(s)": [
+            "Competitors": [
                 "Allan Chen"
             ],
             "Conference": "ISLC",
@@ -1471,7 +1471,7 @@
         {
             "Event": "Intro to Informational Technology",
             "Placement": "9th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Yash Sharma"
             ],
             "Conference": "ISLC",
@@ -1480,7 +1480,7 @@
         {
             "Event": "Intro to Public Speaking",
             "Placement": "6th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Rawan Ghanim"
             ],
             "Conference": "ISLC",
@@ -1489,7 +1489,7 @@
         {
             "Event": "Marketing",
             "Placement": "9th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Abjihit Singh"
             ],
             "Conference": "ISLC",
@@ -1498,7 +1498,7 @@
         {
             "Event": "Public Speaking",
             "Placement": "2nd",
-            "Competitor(s)": [
+            "Competitors": [
                 "Sainamratha Gorijavolu"
             ],
             "Conference": "ISLC",
@@ -1507,7 +1507,7 @@
         {
             "Event": "Sales Presentation",
             "Placement": "4th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Cassidy Fan"
             ],
             "Conference": "ISLC",
@@ -1516,7 +1516,7 @@
         {
             "Event": "Sports and Entertainment Management",
             "Placement": "8th",
-            "Competitor(s)": [
+            "Competitors": [
                 "Audrey Ta",
                 "Rui Song"
             ],
@@ -1529,7 +1529,7 @@
             {
                 "Event": "Business Law",
                 "Placement": "8th",
-                "Competitor(s)": [
+                "Competitors": [
                     "Mario Molina Lopez"
                 ],
                 "Conference": "ISLC",
@@ -1538,7 +1538,7 @@
             {
                 "Event": "Computer Problem Solving",
                 "Placement": "9th",
-                "Competitor(s)": [
+                "Competitors": [
                     "Dhiren Patel"
                 ],
                 "Conference": "ISLC",
@@ -1547,7 +1547,7 @@
             {
                 "Event": "Hospitality Management",
                 "Placement": "8th",
-                "Competitor(s)": [
+                "Competitors": [
                     "Gemma Raymundo",
                     "Gianna Raymundo",
                     "Dominic Rodriguez"
@@ -1558,7 +1558,7 @@
             {
                 "Event": "Intro to Informational Technology",
                 "Placement": "8th",
-                "Competitor(s)": [
+                "Competitors": [
                     "Riley Mitchell"
                 ],
                 "Conference": "ISLC",
@@ -1567,7 +1567,7 @@
             {
                 "Event": "Management Decision Making",
                 "Placement": "9th",
-                "Competitor(s)": [
+                "Competitors": [
                     "Jaren Fisk",
                     "Lexie Carrizo",
                     "Dhiren Patel"
